@@ -1,0 +1,10 @@
+.choices {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.choices--column {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dotted goldenrod;
+}
